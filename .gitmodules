@@ -4,3 +4,6 @@
 [submodule "decode"]
 	path = decode
 	url = https://github.com/OpenDataTelemetry/decode
+[submodule "gateway-mqtt-lns-imt"]
+	path = gateway-mqtt-lns-imt
+	url = https://github.com/OpenDataTelemetry/gateway-mqtt-lns-imt
