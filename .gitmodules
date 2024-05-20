@@ -1,3 +1,6 @@
 [submodule "timeseries-api1"]
 	path = timeseries-api1
 	url = https://github.com/Felpsnm/timeseries-api
+[submodule "decode"]
+	path = decode
+	url = https://github.com/OpenDataTelemetry/decode
